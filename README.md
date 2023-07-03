@@ -1,0 +1,2 @@
+# sign-language-ditector
+nothing
